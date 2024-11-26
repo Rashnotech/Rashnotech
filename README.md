@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashnotech" alt="rashnotech" /></a> </p>
 
-- 🔭 I’m currently working on [AI Enhanced Security Management System](https://github.com/Rashnotech/Ai-SMS)
-
-- 🌱 I’m currently learning **Django**
-
 - 📝 I regularly write articles on [https://medium.com/@rashnotech](https://medium.com/@rashnotech)
 
 - 💬 Ask me about **react, node, flask, python, TypeScript, JavaScript, HTML & CSS**
